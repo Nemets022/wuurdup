@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Schoolbell';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Schoolbell regular'), local('Schoolbell regular'),
+         url('../fonts/Schoolbell/Schoolbell-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Sarala';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Sarala bold'), local('Sarala bold'),
+         url('../fonts/Sarala/Sarala-Bold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Sarala';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Sarala regular'), local('Sarala regular'),
+         url('../fonts/Sarala/Sarala-Regular.ttf') format('truetype');
+}
+
+
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Nunito regular'), local('Nunito regular'),
+         url('../fonts/Nunito/Nunito-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    src: local('Nunito semibold'), local('Nunito semibold'),
+         url('../fonts/Nunito/Nunito-SemiBold.ttf') format('truetype');
+}

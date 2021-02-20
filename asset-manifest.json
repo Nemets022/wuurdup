@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/wuurdup/static/css/main.e32a39c7.chunk.css",
+    "main.js": "/wuurdup/static/js/main.869e46c1.chunk.js",
+    "main.js.map": "/wuurdup/static/js/main.869e46c1.chunk.js.map",
+    "runtime-main.js": "/wuurdup/static/js/runtime-main.8718b1c4.js",
+    "runtime-main.js.map": "/wuurdup/static/js/runtime-main.8718b1c4.js.map",
+    "static/js/2.bd3be899.chunk.js": "/wuurdup/static/js/2.bd3be899.chunk.js",
+    "static/js/2.bd3be899.chunk.js.map": "/wuurdup/static/js/2.bd3be899.chunk.js.map",
+    "index.html": "/wuurdup/index.html",
+    "static/css/main.e32a39c7.chunk.css.map": "/wuurdup/static/css/main.e32a39c7.chunk.css.map",
+    "static/js/2.bd3be899.chunk.js.LICENSE.txt": "/wuurdup/static/js/2.bd3be899.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/wuurdup/static/media/Schoolbell-Regular.0c2fc282.ttf",
+    "static/media/Users.scss": "/wuurdup/static/media/ios.d6eece6e.svg",
+    "static/media/UserDetails.scss": "/wuurdup/static/media/rus.838af097.svg",
+    "static/media/bed.2d97b623.svg": "/wuurdup/static/media/bed.2d97b623.svg",
+    "static/media/de.f58ceec7.svg": "/wuurdup/static/media/de.f58ceec7.svg",
+    "static/media/fin.4c0d1b74.svg": "/wuurdup/static/media/fin.4c0d1b74.svg",
+    "static/media/fr.07b5509b.svg": "/wuurdup/static/media/fr.07b5509b.svg",
+    "static/media/it.9dba3e37.svg": "/wuurdup/static/media/it.9dba3e37.svg",
+    "static/media/logo.b4f3a995.png": "/wuurdup/static/media/logo.b4f3a995.png",
+    "static/media/spa.90312c97.svg": "/wuurdup/static/media/spa.90312c97.svg",
+    "static/media/sv.135c4c8b.svg": "/wuurdup/static/media/sv.135c4c8b.svg",
+    "static/media/uk.7c1a0732.svg": "/wuurdup/static/media/uk.7c1a0732.svg",
+    "static/media/usa.29b13cff.svg": "/wuurdup/static/media/usa.29b13cff.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8718b1c4.js",
+    "static/js/2.bd3be899.chunk.js",
+    "static/css/main.e32a39c7.chunk.css",
+    "static/js/main.869e46c1.chunk.js"
+  ]
+}
